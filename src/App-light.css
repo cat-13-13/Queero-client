@@ -1,0 +1,160 @@
+.App-light {
+    min-height: 100vh;
+    background-color: #fff;
+}
+
+.header-light {
+    background-color: #ffffff;
+}
+
+.navbar-link-light {
+    color: #1f1f1f;
+}
+
+.navbar-link-light:hover {
+    background-color: #1f1f1f;
+    color: #fff;
+}
+
+.navbar-link-light:active {
+    background-color: #1f1f1f
+}
+
+.navbar-link-light-selected {
+    color: #fff;
+    background-color: #1f1f1f;
+}
+
+.navbar-link-light-selected:hover {
+    color: #fff;
+}
+
+.navbar-link-light-selected:visited {
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar-link-light-selected:active {
+    background-color: #1f1f1f;
+    color: #fff;
+}
+
+.header-menu-mobile-light a {
+    color: #1f1f1f
+}
+
+.header-menu-mobile-light a:hover {
+    color: #1f1f1f
+}
+
+.header-links-mobile-light {
+    background-color: #fff
+}
+
+.header-user-avatar-light abbr {
+
+    background-color: #1f1f1f;
+    color: #fff;
+
+}
+
+.header-user-avatar-light abbr:hover {
+
+    color: #fff;
+
+}
+
+
+/*  Country details page*/
+
+.country-info-container-light {
+    color: #1f1f1f;
+}
+
+/* index page */
+
+.home-page-container-light p {
+
+    color: #1f1f1f;
+}
+
+.home-page-container-light h1 {
+
+    color: #1f1f1f;
+}
+
+.home-middle-light h2,
+.home-footer-content h2 {
+    color: #1f1f1f;
+}
+
+.aboutus-container-light h1 {
+    color: #1f1f1f;
+}
+
+.aboutus-info-light p,
+.aboutus-info-light h4 {
+    color: #1f1f1f;
+}
+
+/*  Login */
+
+.form-container-light h1 {
+
+    color: #1f1f1f;
+
+}
+
+.input-light label {
+
+    color: #1f1f1f;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+
+}
+
+.comments-container-dark {
+    background-color: #fff;
+}
+
+
+/* posts */
+
+.post-info-buttons-light a {
+
+    color: #1f1f1f;
+}
+
+.post-info-buttons-light a:hover {
+
+    color: #1f1f1f;
+}
+
+/* use profile */
+
+.user-content-light button:hover {
+    color: #fff;
+    backgroundcolor: #1f1f1f;
+}
+
+.user-content-light button {
+
+    color: #fff;
+    background-color: #1f1f1f;
+
+}
+
+.footer-light {
+    background-color: #1f1f1f;
+}
+
+.footer-light p {
+    color: #fff;
+}
+
+.page-title-light {
+    color: #1f1f1f;
+}
+
+@media screen and (min-width: 600px) {}

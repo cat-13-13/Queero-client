@@ -1,0 +1,267 @@
+.App-dark {
+    min-height: 100vh;
+    background-color: #1f1f1f;
+}
+
+.header-dark {
+    background-color: #1f1f1f;
+}
+
+.navbar-link-dark {
+    color: #fff;
+}
+
+.navbar-link-dark:hover {
+    background-color: #fff;
+    color: #1f1f1f;
+}
+
+.navbar-link-dark:active {
+    background-color: #fff;
+    color: #1f1f1f;
+}
+
+.navbar-link-dark-selected {
+    color: #1f1f1f;
+    background-color: #fff;
+}
+
+.navbar-link-dark-selected:hover {
+    color: #1f1f1f;
+}
+
+.navbar-link-dark-selected:visited {
+    text-decoration: none;
+    color: #1f1f1f;
+}
+
+.header-menu-mobile-dark a {
+    color: #fff;
+}
+
+.header-menu-mobile-dark a:hover {
+    color: #fff;
+}
+
+.header-links-mobile-dark {
+    background-color: #1f1f1f;
+}
+
+.header-user-avatar-dark abbr {
+
+    background-color: #fff;
+    color: #1f1f1f;
+
+}
+
+.posts-user-avatar-dark abbr {
+    background-color: #1f1f1f;
+    color: #fff;
+}
+
+.posts-user-avatar-dark abbr:hover {
+    background-color: #1f1f1f;
+    color: #fff;
+}
+
+.comments-user-avatar-dark abbr {
+    width: 100%;
+    background-color: #1f1f1f;
+    color: #fff;
+}
+
+.comments-user-avatar-dark abbr:hover {
+    background-color: #1f1f1f;
+    color: #fff;
+}
+
+
+/*  Login */
+
+.form-container-dark h1 {
+
+    color: #fff;
+
+}
+
+.input-dark label {
+
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+
+}
+
+/* comments */
+
+.comment-btns-dark button {
+
+    background-color: #1f1f1f;
+}
+
+.comment-btns-dark button:hover {
+
+    background-color: #1f1f1f;
+}
+
+.user-avatar-dark abbr {
+
+    color: #fff;
+    background-color: #1f1f1f;
+
+}
+
+.user-avatar-dark abbr:hover {
+
+    color: #1f1f1f;
+
+}
+
+.comment-btns-dark button {
+
+    background-color: #1f1f1f;
+    color: #fff;
+
+}
+
+.comment-btns-dark button:visited {
+
+    background-color: #1f1f1f;
+    color: #fff;
+
+}
+
+.comment-btns-dark button:focus {
+
+    background-color: #1f1f1f !important;
+    color: #fff !important;
+
+}
+
+/* country details */
+
+.country-info-header-dark {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+.post-content-dark {
+    margin: 30px 10%;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+.country-info-container-dark {
+    color: #fff;
+}
+
+.country-info-title {
+    color: #1f1f1f;
+}
+
+.filtering-dark button {
+    color: #fff !important;
+    background-color: #1f1f1f !important;
+}
+
+.filtering-dark button:hover {
+    color: #fff;
+    background-color: #1f1f1f;
+}
+
+.wide-btn-dark {
+    color: #fff !important;
+    background-color: #1f1f1f !important;
+}
+
+.wide-btn-dark:hover {
+    color: #fff;
+    background-color: #1f1f1f;
+}
+
+/* posts */
+
+.post-info-buttons-dark button {
+
+    background-color: #1f1f1f;
+}
+
+.post-info-buttons-dark button:hover {
+
+    background-color: #1f1f1f;
+}
+
+.post-info-buttons-dark a {
+
+    color: #fff;
+}
+
+
+.post-info-buttons-dark a:hover {
+
+    color: #fff;
+}
+
+.post-info-buttons-dark a:focus {
+
+    color: #fff;
+}
+
+/* use profile */
+
+.user-content-dark button:hover {
+    background-color: #fff;
+    color: #1f1f1f;
+}
+
+.user-content-dark button {
+
+    background-color: #fff;
+    color: #1f1f1f;
+
+}
+
+.user-content-dark {
+    color: white;
+}
+
+.home-page-container-dark p {
+
+    color: #fff;
+}
+
+.home-middle-dark h2,
+.home-footer-content h2 {
+    color: #fff;
+}
+
+.home-page-container-dark h1 {
+
+    color: #fff;
+}
+
+.aboutus-container-dark h1 {
+    color: #fff;
+}
+
+.aboutus-info-dark p,
+.aboutus-info-dark h4 {
+    color: #fff;
+}
+
+.footer-dark {
+    background-color: #fff;
+}
+
+.footer-dark p {
+    color: #1f1f1f;
+}
+
+.page-title-dark {
+    color: #fff;
+}
+
+@media screen and (min-width: 600px) {}

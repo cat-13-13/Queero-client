@@ -1,0 +1,658 @@
+[
+    {
+        "id": "AFG",
+        "value": -137
+    },
+    {
+        "id": "AGO",
+        "value": 183
+    },
+    {
+        "id": "ALB",
+        "value": 96
+    },
+    {
+        "id": "ARE",
+        "value": -160
+    },
+    {
+        "id": "ARG",
+        "value": 260
+    },
+    {
+        "id": "ARM",
+        "value": 64
+    },
+    {
+        "id": "AUT",
+        "value": 305
+    },
+    {
+        "id": "AZE",
+        "value": 1
+    },
+    {
+        "id": "BDI",
+        "value": -22
+    },
+    {
+        "id": "BEL",
+        "value": 343
+    },
+    {
+        "id": "BRA",
+        "value": 248
+    },
+    {
+        "id": "SWE",
+        "value": 377
+    },
+    {
+        "id": "COD",
+        "value": -27
+    },
+    {
+        "id": "SSD",
+        "value": -116
+    },
+    {
+        "id": "SOM",
+        "value": -140
+    },
+    {
+        "id": "AUS",
+        "value": 304
+    },
+    {
+        "id": "BEN",
+        "value": 10
+    },
+    {
+        "id": "BFA",
+        "value": 53
+    },
+    {
+        "id": "BGD",
+        "value": -15
+    },
+    {
+        "id": "BGR",
+        "value": 159
+    },
+    {
+        "id": "BHS",
+        "value": 50
+    },
+    {
+        "id": "BIH",
+        "value": 138
+    },
+    {
+        "id": "BLR",
+        "value": 13
+    },
+    {
+        "id": "BLZ",
+        "value": -9
+    },
+    {
+        "id": "BOL",
+        "value": 223
+    },
+    {
+        "id": "BRN",
+        "value": -200
+    },
+    {
+        "id": "BTN",
+        "value": 16
+    },
+    {
+        "id": "BWA",
+        "value": 108
+    },
+    {
+        "id": "CAF",
+        "value": -19
+    },
+    {
+        "id": "CAN",
+        "value": 383
+    },
+    {
+        "id": "CHE",
+        "value": 328
+    },
+    {
+        "id": "CHL",
+        "value": 307
+    },
+    {
+        "id": "CHN",
+        "value": 31
+    },
+    {
+        "id": "CIV",
+        "value": -25
+    },
+    {
+        "id": "CMR",
+        "value": -64
+    },
+    {
+        "id": "COG",
+        "value": 16
+    },
+    {
+        "id": "COL",
+        "value": 239
+    },
+    {
+        "id": "CRI",
+        "value": 259
+    },
+    {
+        "id": "CUB",
+        "value": 279
+    },
+    {
+        "id": "CYP",
+        "value": 192
+    },
+    {
+        "id": "CZE",
+        "value": 185
+    },
+    {
+        "id": "DEU",
+        "value": 309
+    },
+    {
+        "id": "DJI",
+        "value": 5
+    },
+    {
+        "id": "DNK",
+        "value": 347
+    },
+    {
+        "id": "DOM",
+        "value": 3
+    },
+    {
+        "id": "DZA",
+        "value": -75
+    },
+    {
+        "id": "ECU",
+        "value": 223
+    },
+    {
+        "id": "EGY",
+        "value": -95
+    },
+    {
+        "id": "ERI",
+        "value": -75
+    },
+    {
+        "id": "ESP",
+        "value": 356
+    },
+    {
+        "id": "EST",
+        "value": 223
+    },
+    {
+        "id": "ETH",
+        "value": -83
+    },
+    {
+        "id": "FIN",
+        "value": 300
+    },
+    {
+        "id": "FJI",
+        "value": 123
+    },
+    {
+        "id": "FRA",
+        "value": 338
+    },
+    {
+        "id": "GAB",
+        "value": 10
+    },
+    {
+        "id": "GBR",
+        "value": 342
+    },
+    {
+        "id": "GEO",
+        "value": 154
+    },
+    {
+        "id": "GHA",
+        "value": -59
+    },
+    {
+        "id": "GIN",
+        "value": -60
+    },
+    {
+        "id": "GMB",
+        "value": -139
+    },
+    {
+        "id": "GNB",
+        "value": 0
+    },
+    {
+        "id": "GNQ",
+        "value": 40
+    },
+    {
+        "id": "GRC",
+        "value": 239
+    },
+    {
+        "id": "GTM",
+        "value": 3
+    },
+    {
+        "id": "GUY",
+        "value": -162
+    },
+    {
+        "id": "HND",
+        "value": 65
+    },
+    {
+        "id": "HRV",
+        "value": 288
+    },
+    {
+        "id": "HTI",
+        "value": 78
+    },
+    {
+        "id": "HUN",
+        "value": 136
+    },
+    {
+        "id": "IDN",
+        "value": -7
+    },
+    {
+        "id": "IND",
+        "value": 177
+    },
+    {
+        "id": "IRL",
+        "value": 320
+    },
+    {
+        "id": "IRN",
+        "value": -105
+    },
+    {
+        "id": "IRQ",
+        "value": -28
+    },
+    {
+        "id": "ISL",
+        "value": 330
+    },
+    {
+        "id": "ISR",
+        "value": 215
+    },
+    {
+        "id": "ITA",
+        "value": 169
+    },
+    {
+        "id": "JAM",
+        "value": -61
+    },
+    {
+        "id": "JOR",
+        "value": -15
+    },
+    {
+        "id": "JPN",
+        "value": 96
+    },
+    {
+        "id": "KAZ",
+        "value": 2
+    },
+    {
+        "id": "KEN",
+        "value": -62
+    },
+    {
+        "id": "KGZ",
+        "value": 32
+    },
+    {
+        "id": "KHM",
+        "value": 4
+    },
+    {
+        "id": "KWT",
+        "value": -180
+    },
+    {
+        "id": "LAO",
+        "value": 71
+    },
+    {
+        "id": "LBN",
+        "value": -58
+    },
+    {
+        "id": "LBR",
+        "value": -49
+    },
+    {
+        "id": "LBY",
+        "value": -150
+    },
+    {
+        "id": "LKA",
+        "value": -46
+    },
+    {
+        "id": "LSO",
+        "value": 80
+    },
+    {
+        "id": "LTU",
+        "value": 150
+    },
+    {
+        "id": "LUX",
+        "value": 320
+    },
+    {
+        "id": "LVA",
+        "value": 95
+    },
+    {
+        "id": "MAR",
+        "value": -89
+    },
+    {
+        "id": "MDA",
+        "value": 95
+    },
+    {
+        "id": "MDG",
+        "value": 26
+    },
+    {
+        "id": "MEX",
+        "value": 212
+    },
+    {
+        "id": "MKD",
+        "value": 163
+    },
+    {
+        "id": "MLI",
+        "value": 12
+    },
+    {
+        "id": "MMR",
+        "value": -73
+    },
+    {
+        "id": "MNE",
+        "value": 167
+    },
+    {
+        "id": "MNG",
+        "value": 117
+    },
+    {
+        "id": "MOZ",
+        "value": 62
+    },
+    {
+        "id": "MRT",
+        "value": -141
+    },
+    {
+        "id": "MWI",
+        "value": -163
+    },
+    {
+        "id": "MYS",
+        "value": -160
+    },
+    {
+        "id": "NAM",
+        "value": 58
+    },
+    {
+        "id": "NER",
+        "value": 14
+    },
+    {
+        "id": "NGA",
+        "value": -190
+    },
+    {
+        "id": "NIC",
+        "value": 156
+    },
+    {
+        "id": "NLD",
+        "value": 373
+    },
+    {
+        "id": "NOR",
+        "value": 358
+    },
+    {
+        "id": "NPL",
+        "value": 206
+    },
+    {
+        "id": "NZL",
+        "value": 299
+    },
+    {
+        "id": "OMN",
+        "value": -145
+    },
+    {
+        "id": "PAK",
+        "value": -47
+    },
+    {
+        "id": "PAN",
+        "value": 51
+    },
+    {
+        "id": "PER",
+        "value": 206
+    },
+    {
+        "id": "PHL",
+        "value": 62
+    },
+    {
+        "id": "PNG",
+        "value": -81
+    },
+    {
+        "id": "POL",
+        "value": 82
+    },
+    {
+        "id": "PRI",
+        "value": 245
+    },
+    {
+        "id": "PRT",
+        "value": 358
+    },
+    {
+        "id": "PRY",
+        "value": 30
+    },
+    {
+        "id": "QAT",
+        "value": -137
+    },
+    {
+        "id": "ROU",
+        "value": 137
+    },
+    {
+        "id": "RUS",
+        "value": -37
+    },
+    {
+        "id": "RWA",
+        "value": -29
+    },
+    {
+        "id": "SAU",
+        "value": -196
+    },
+    {
+        "id": "SDN",
+        "value": -159
+    },
+    {
+        "id": "SEN",
+        "value": -67
+    },
+    {
+        "id": "SLB",
+        "value": -85
+    },
+    {
+        "id": "SLE",
+        "value": -73
+    },
+    {
+        "id": "SLV",
+        "value": 58
+    },
+    {
+        "id": "SRB",
+        "value": 172
+    },
+    {
+        "id": "SUR",
+        "value": 136
+    },
+    {
+        "id": "SVK",
+        "value": 191
+    },
+    {
+        "id": "SVN",
+        "value": 281
+    },
+    {
+        "id": "SWZ",
+        "value": -26
+    },
+    {
+        "id": "TCD",
+        "value": -38
+    },
+    {
+        "id": "TGO",
+        "value": -55
+    },
+    {
+        "id": "THA",
+        "value": 141
+    },
+    {
+        "id": "TJK",
+        "value": 24
+    },
+    {
+        "id": "TKM",
+        "value": -60
+    },
+    {
+        "id": "TLS",
+        "value": 20
+    },
+    {
+        "id": "TTO",
+        "value": 21
+    },
+    {
+        "id": "TUN",
+        "value": -91
+    },
+    {
+        "id": "TUR",
+        "value": 40
+    },
+    {
+        "id": "TWN",
+        "value": 188
+    },
+    {
+        "id": "TZA",
+        "value": -120
+    },
+    {
+        "id": "UGA",
+        "value": -83
+    },
+    {
+        "id": "UKR",
+        "value": 165
+    },
+    {
+        "id": "URY",
+        "value": 305
+    },
+    {
+        "id": "USA",
+        "value": 292
+    },
+    {
+        "id": "UZB",
+        "value": -65
+    },
+    {
+        "id": "VEN",
+        "value": 28
+    },
+    {
+        "id": "VNM",
+        "value": 65
+    },
+    {
+        "id": "YEM",
+        "value": -145
+    },
+    {
+        "id": "ZAF",
+        "value": 317
+    },
+    {
+        "id": "ZMB",
+        "value": -79
+    },
+    {
+        "id": "ZWE",
+        "value": -52
+    },
+    {
+        "id": "KOR",
+        "value": 92
+    }
+]
